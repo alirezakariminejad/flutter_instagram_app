@@ -1,0 +1,6 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.quickSuggestionsDelay": 5,
+    "editor.snippetSuggestions": "bottom"
+}
